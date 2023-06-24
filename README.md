@@ -5,8 +5,14 @@ Este paquete te ayuda a crear un proyecto desde cero en cuestión de segundos. O
 ¡Comencemos...!!
 
 ❗️ Pasos previos
-Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema.
+Antes de comenzar, asegúrate de tener instalado Node.js v-16 en adelante en tu sistema.
 
+Instala el packete
+```bash
+npm install -g express-swift-api
+```
+Si quieres colaborar 
+Antes debes solicitar acceso al proyecto
 Descarga el proyecto para testear y ejecuta los siguientes comandos en la terminal:
 ```bash
 cd express-swift-api
@@ -67,5 +73,3 @@ Generando controladores (g-controller): Esta acción generará un controlador co
 
 
 🌟 ¡Espero que encuentres útil esta herramienta! Estaré trabajando continuamente para agregar más acciones y facilitar aún más tu experiencia de desarrollo. ¡Diviértete programando! 🎉😃
-
-Si tienes dudas o consultas y tambien sugerencias puedes escribirme a 📫 f.pino.perez.dev@gmail.com
