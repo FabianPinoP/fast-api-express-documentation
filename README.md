@@ -1,6 +1,6 @@
-🚀 ¡Bienvenido a Fast-API-Express! 🚀
+🚀 ¡Bienvenido a express-swift-api! 🚀
 
-Este paquete te ayuda a crear un proyecto desde cero en cuestión de segundos. Olvídate de las tareas tediosas al iniciar un proyecto, con Fast-API-Express podrás crear un proyecto completo, incluyendo la configuración de la base de datos y las operaciones principales. Además, cuenta con generadores automáticos de controladores, modelos y rutas. ¡Genial! Tú solo debes preocuparte por la lógica de tu proyecto. La API se construye con Express y otras librerías que te permiten comenzar a usar tu nuevo proyecto rápidamente.
+Este paquete te ayuda a crear un proyecto desde cero en cuestión de segundos. Olvídate de las tareas tediosas al iniciar un proyecto, con express-swift-api podrás crear un proyecto completo, incluyendo la configuración de la base de datos y las operaciones principales. Además, cuenta con generadores automáticos de controladores, modelos y rutas. ¡Genial! Tú solo debes preocuparte por la lógica de tu proyecto. La API se construye con Express y otras librerías que te permiten comenzar a usar tu nuevo proyecto rápidamente.
 
 ¡Comencemos...!!
 
@@ -9,7 +9,7 @@ Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema.
 
 Descarga el proyecto para testear y ejecuta los siguientes comandos en la terminal:
 ```bash
-cd fast-api-express
+cd express-swift-api
 npm install
 npm link
 ```
@@ -18,7 +18,7 @@ npm link
 Para ejecutar cualquier opción, llama al paquete desde la línea de comandos de la siguiente manera:
 
 ```bash
-fast-api "acción a realizar"
+express-swift-api "acción a realizar"
 ```
 ⚙️ Acciones disponibles
 new: Crea un nuevo proyecto API con la estructura predefinida. Incluye carpetas como node_modules, src, .env, package-lock.json y package.json.
