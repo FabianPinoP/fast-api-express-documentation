@@ -1,3 +1,6 @@
+![Descargas](https://img.shields.io/npm/dm/express-swift-api.svg)
+
+
 🚀 ¡Bienvenido a express-swift-api! 🚀
 
 Este paquete te ayuda a crear un proyecto desde cero en cuestión de segundos. Olvídate de las tareas tediosas al iniciar un proyecto, con express-swift-api podrás crear un proyecto completo, incluyendo la configuración de la base de datos y las operaciones principales. Además, cuenta con generadores automáticos de controladores, modelos y rutas. ¡Genial! Tú solo debes preocuparte por la lógica de tu proyecto. La API se construye con Express y otras librerías que te permiten comenzar a usar tu nuevo proyecto rápidamente.
